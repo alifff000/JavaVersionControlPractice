@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Halo Dunia! Ini commit pertama ");
+        System.out.println("Hello world! Ini commit pertama ");
     }
 }
